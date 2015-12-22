@@ -1,6 +1,6 @@
 # EtherRend
 An old top-down game engine I developed in high school.
 
-[Screenshot](/ReadmeScreenshot.jpg)
+![Screenshot](/ReadmeScreenshot.jpg)
 
 Maps are developed in the map maker, which loads and saves .ethrmap files.
