@@ -40,7 +40,7 @@ public class ENTITY_spawnPoint extends Entity
     
     public void nowPartOfWorld()
     {
-        List<worldObject> objectsInWorld = etherworld.getObjects(ENTITY_spawnPoint.class);
+        /*List<worldObject> objectsInWorld = etherworld.getObjects(ENTITY_spawnPoint.class);
         for(int i = 0; i < objectsInWorld.size(); i++)
         {
             worldObject currentObj = (worldObject) objectsInWorld.get(i);
@@ -51,7 +51,7 @@ public class ENTITY_spawnPoint extends Entity
                     currentObj.remove = true;
                 }
             }
-        }
+        }*/
     }
     
     public List getDataTitles()
